@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="QT.png" width="3431" height="3129">
+	<SubTexture name="qt dance0000" x="1916" y="2778" width="500" height="289" rotated="true" frameX="-1" frameY="-23" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0001" x="1916" y="2778" width="500" height="289" rotated="true" frameX="-1" frameY="-23" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0002" x="2939" y="2836" width="489" height="290" rotated="true" frameX="-0" frameY="-34" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0003" x="2939" y="2836" width="489" height="290" rotated="true" frameX="-0" frameY="-34" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0004" x="2939" y="2836" width="489" height="290" rotated="true" frameX="-0" frameY="-34" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0005" x="3" y="2798" width="494" height="293" rotated="true" frameX="-0" frameY="-29" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0006" x="3" y="2798" width="494" height="293" rotated="true" frameX="-0" frameY="-29" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0007" x="2424" y="2836" width="507" height="284" rotated="true" frameX="-11" frameY="-15" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0008" x="2424" y="2836" width="507" height="284" rotated="true" frameX="-11" frameY="-15" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0009" x="3" y="2507" width="519" height="283" rotated="true" frameX="-18" frameY="-3" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0010" x="1349" y="2784" width="516" height="280" rotated="true" frameX="-41" frameY="-7" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0011" x="1349" y="2784" width="516" height="280" rotated="true" frameX="-41" frameY="-7" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0012" x="1060" y="2499" width="281" height="516" frameX="-41" frameY="-7" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0013" x="1060" y="2499" width="281" height="516" frameX="-41" frameY="-7" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0014" x="1060" y="2499" width="281" height="516" frameX="-41" frameY="-7" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0015" x="530" y="2796" width="516" height="281" rotated="true" frameX="-39" frameY="-7" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0016" x="530" y="2796" width="516" height="281" rotated="true" frameX="-39" frameY="-7" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0017" x="2868" y="1060" width="280" height="522" frameX="-38" frameY="-0" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0018" x="2868" y="1060" width="280" height="522" frameX="-38" frameY="-0" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt dance0019" x="2873" y="3" width="280" height="519" frameX="-27" frameY="-3" frameWidth="322" frameHeight="523"/>
+	<SubTexture name="qt down0000" x="970" y="3" width="505" height="424" frameX="-6" frameY="-3" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0001" x="970" y="3" width="505" height="424" frameX="-6" frameY="-3" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0002" x="1021" y="954" width="511" height="423" frameX="-0" frameY="-4" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0003" x="1021" y="954" width="511" height="423" frameX="-0" frameY="-4" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0004" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0005" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0006" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0007" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0008" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0009" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0010" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0011" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0012" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt down0013" x="513" y="519" width="511" height="427" frameX="-0" frameY="-0" frameWidth="511" frameHeight="427"/>
+	<SubTexture name="qt hey0000" x="513" y="954" width="500" height="434" frameX="-0" frameY="-3" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0001" x="513" y="954" width="500" height="434" frameX="-0" frameY="-3" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0002" x="3" y="986" width="474" height="430" frameX="-28" frameY="-7" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0003" x="3" y="986" width="474" height="430" frameX="-28" frameY="-7" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0004" x="1021" y="1385" width="477" height="435" frameX="-25" frameY="-2" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0005" x="1021" y="1385" width="477" height="435" frameX="-25" frameY="-2" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0006" x="1032" y="435" width="477" height="436" frameX="-25" frameY="-1" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0007" x="1032" y="435" width="477" height="436" frameX="-25" frameY="-1" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0008" x="1032" y="435" width="477" height="436" frameX="-25" frameY="-1" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0009" x="1032" y="435" width="477" height="436" frameX="-25" frameY="-1" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0010" x="1032" y="435" width="477" height="436" frameX="-25" frameY="-1" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0011" x="1032" y="435" width="477" height="436" frameX="-25" frameY="-1" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0012" x="1032" y="435" width="477" height="436" frameX="-25" frameY="-1" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt hey0013" x="1032" y="435" width="477" height="436" frameX="-25" frameY="-1" frameWidth="502" frameHeight="437"/>
+	<SubTexture name="qt idle0000" x="1506" y="1770" width="517" height="363" rotated="true" frameX="-4" frameY="-1" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0001" x="2032" y="1287" width="504" height="361" rotated="true" frameX="-0" frameY="-14" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0002" x="2032" y="1287" width="504" height="361" rotated="true" frameX="-0" frameY="-14" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0003" x="2066" y="728" width="360" height="492" frameX="-2" frameY="-26" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0004" x="2066" y="728" width="360" height="492" frameX="-2" frameY="-26" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0005" x="3" y="1950" width="352" height="500" frameX="-4" frameY="-18" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0006" x="3" y="1950" width="352" height="500" frameX="-4" frameY="-18" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0007" x="371" y="1785" width="516" height="360" rotated="true" frameX="-4" frameY="-2" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0008" x="371" y="1785" width="516" height="360" rotated="true" frameX="-4" frameY="-2" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0009" x="3" y="1424" width="360" height="518" frameX="-4" frameY="-0" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0010" x="3" y="1424" width="360" height="518" frameX="-4" frameY="-0" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0011" x="3" y="1424" width="360" height="518" frameX="-4" frameY="-0" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0012" x="3" y="1424" width="360" height="518" frameX="-4" frameY="-0" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt idle0013" x="3" y="1424" width="360" height="518" frameX="-4" frameY="-0" frameWidth="367" frameHeight="518"/>
+	<SubTexture name="qt left0000" x="363" y="2153" width="492" height="346" rotated="true" frameX="-0" frameY="-23" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0001" x="363" y="2153" width="492" height="346" rotated="true" frameX="-0" frameY="-23" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0002" x="2031" y="2134" width="516" height="325" rotated="true" frameX="-22" frameY="-0" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0003" x="2031" y="2134" width="516" height="325" rotated="true" frameX="-22" frameY="-0" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0004" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0005" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0006" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0007" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0008" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0009" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0010" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0011" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0012" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt left0013" x="1454" y="2141" width="511" height="325" rotated="true" frameX="-22" frameY="-5" frameWidth="347" frameHeight="516"/>
+	<SubTexture name="qt pre dance0000" x="1540" y="916" width="518" height="363" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0001" x="1540" y="916" width="518" height="363" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0002" x="1517" y="390" width="374" height="518" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0003" x="1483" y="3" width="518" height="379" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0004" x="1483" y="3" width="518" height="379" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0005" x="485" y="1396" width="518" height="381" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0006" x="485" y="1396" width="518" height="381" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0007" x="485" y="1396" width="518" height="381" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0008" x="1506" y="1385" width="518" height="377" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0009" x="1506" y="1385" width="518" height="377" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0010" x="2031" y="1770" width="518" height="356" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0011" x="2031" y="1770" width="518" height="356" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0012" x="863" y="2171" width="518" height="320" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0013" x="2557" y="1780" width="303" height="518" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0014" x="1389" y="2474" width="519" height="302" rotated="true" frameX="-0" frameY="-4" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0015" x="1389" y="2474" width="519" height="302" rotated="true" frameX="-0" frameY="-4" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0016" x="2562" y="3" width="303" height="519" frameX="-0" frameY="-4" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0017" x="2562" y="3" width="303" height="519" frameX="-0" frameY="-4" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0018" x="2557" y="1253" width="303" height="519" frameX="-0" frameY="-4" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0019" x="2557" y="1253" width="303" height="519" frameX="-0" frameY="-4" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0020" x="2555" y="2306" width="303" height="518" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0021" x="2555" y="2306" width="303" height="518" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0022" x="2555" y="2306" width="303" height="518" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0023" x="2555" y="2306" width="303" height="518" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0024" x="1973" y="2467" width="518" height="303" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0025" x="1973" y="2467" width="518" height="303" rotated="true" frameX="-0" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0026" x="2434" y="728" width="311" height="517" frameX="-10" frameY="-5" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0027" x="2868" y="1590" width="280" height="521" frameX="-37" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0028" x="2868" y="1590" width="280" height="521" frameX="-37" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0029" x="530" y="2507" width="522" height="281" rotated="true" frameX="-36" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0030" x="530" y="2507" width="522" height="281" rotated="true" frameX="-36" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0031" x="2866" y="2306" width="281" height="522" frameX="-35" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0032" x="2866" y="2306" width="281" height="522" frameX="-35" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0033" x="2753" y="530" width="281" height="522" frameX="-35" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0034" x="2753" y="530" width="281" height="522" frameX="-35" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0035" x="2753" y="530" width="281" height="522" frameX="-35" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0036" x="2753" y="530" width="281" height="522" frameX="-35" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0037" x="2753" y="530" width="281" height="522" frameX="-35" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt pre dance0038" x="2753" y="530" width="281" height="522" frameX="-35" frameY="-0" frameWidth="381" frameHeight="523"/>
+	<SubTexture name="qt rightt0000" x="3" y="3" width="494" height="510" frameX="-0" frameY="-1" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0001" x="3" y="3" width="494" height="510" frameX="-0" frameY="-1" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0002" x="3" y="521" width="502" height="457" rotated="true" frameX="-11" frameY="-9" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0003" x="3" y="521" width="502" height="457" rotated="true" frameX="-11" frameY="-9" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0004" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0005" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0006" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0007" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0008" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0009" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0010" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0011" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0012" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt rightt0013" x="505" y="3" width="457" height="508" frameX="-11" frameY="-3" frameWidth="494" frameHeight="511"/>
+	<SubTexture name="qt up0000" x="895" y="1828" width="551" height="335" rotated="true" frameX="-0" frameY="-0" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0001" x="895" y="1828" width="551" height="335" rotated="true" frameX="-0" frameY="-0" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0002" x="1899" y="390" width="547" height="330" rotated="true" frameX="-7" frameY="-4" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0003" x="1899" y="390" width="547" height="330" rotated="true" frameX="-7" frameY="-4" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0004" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0005" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0006" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0007" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0008" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0009" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0010" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0011" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0012" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+	<SubTexture name="qt up0013" x="2009" y="3" width="545" height="330" rotated="true" frameX="-7" frameY="-6" frameWidth="337" frameHeight="551"/>
+</TextureAtlas>
